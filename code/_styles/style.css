@@ -1,0 +1,29 @@
+header h1{
+	font-size: 18px;
+}
+.btn-admin{
+	float: right;
+	position: relative;
+	top: -30px;
+}
+.center{
+	text-align: center;
+}
+
+.well{
+	margin-top: 70px;
+	padding: 40px 70px 70px 70px;
+}
+
+.input-mailing{
+	margin-top: 50px;
+}
+
+.form-group{
+	margin-bottom: 10px;
+	clear: both;
+}
+
+.mailinglist{
+	margin-top: 120px;
+}
